@@ -64,7 +64,8 @@ $('[data-formGroup="formGroup"]').formGroup({
 $('.getData').click(function () {
     let data = getData($('[data-formGroup="formGroup"]'));
     console.log(data)
-});```
+});
+```
 ## Screenshots
 
 ![App Screenshot](form-group.png)
